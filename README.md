@@ -15,8 +15,10 @@ O sistema será desenvolvido usando JSP, uma tecnologia de desenvolvimento web e
 <div align="center">
 <h3> 🛠 Funcionamento </h3>
   
-Link do vídeo demonstrando o funcionamento: https://drive.google.com/file/d/1nXrlm4W73m3kjWCre9lEEqWN_65dnAbd/view
-O vídeo está disponível somente para emails do domínio da UNINOVE.
+<p>Link do vídeo demonstrando o funcionamento: 
+https://drive.google.com/file/d/1nXrlm4W73m3kjWCre9lEEqWN_65dnAbd/view
+
+Obs: vídeo está disponível somente para emails do domínio da UNINOVE.</p>
 </div>
   
 ------------
