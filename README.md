@@ -22,3 +22,18 @@ Obs: vídeo está disponível somente para emails do domínio da UNINOVE.</p>
 </div>
   
 ------------
+
+<div align="center">
+<h3> Integrantes do Grupo </h3>
+<p>
+• Hiago Marchesano da Silva
+• Danilo da Silva Di Santo
+• Felipe César da Silva Albuquerque
+• Bruno Paiva Silva
+• Juan Marco Baccas Ambrósio da Silva
+• Caio Vinicius Rodrigues Araujo Costa
+• Kathleen Ferreira Cesar
+• Gabriel Rocha Império
+• Danilo Gama de Oliveira e Silva
+• Emilayne Nália do Nascimento
+  </p>
