@@ -1,0 +1,40 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 29, 2023, 3:54:24 PM
+    Author     : srklono
+*/
+
+body {
+    background-color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #0088dc;
+}
+
+form div input {
+   border: 1px solid #0088dc;
+   box-shadow: none;
+}
+
+.submit-button {
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #0088dc;
+	display:inline-block;
+	cursor:pointer;
+        color: #0088dc;
+	font-size:13px;
+	padding:5px 18px;
+	text-decoration:none;
+}
+.submit-button:hover {
+	background-color:#0088dc;
+        color: #ffffff;
+  text-decoration: none;
+}
+.submit-button:active {
+	position:relative;
+	top:1px;
+}
